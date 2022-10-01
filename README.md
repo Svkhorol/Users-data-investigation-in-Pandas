@@ -13,7 +13,15 @@ The purpose of this project is to study interrelation of the number of successfu
 - Matplotlib
 
 **Files:**
-- 1: Jupyter Notebook with code for analysis
-- **user_data.csv**: file with dataset 1
+- **Data analysis.ipynb**:  Jupyter Notebook with code for analysis
+- **user_data.csv**:  file with dataset 1
 - **logs.csv**: file with dataset 2
-- README.md: this file
+- README.md:  this file
+
+**Parts of analysis:**  
+1. Loading data and preparation
+2. Clients who made the most of successful orders
+3. The most popular platform (the type of device)
+4. Premium and non-premium clients per age
+5. How many successful orders have the most of the clients made?
+6. Successful orders which were made with computer per client age
